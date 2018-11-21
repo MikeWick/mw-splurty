@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+
 @import "bootstrap";
 
 .clear {
@@ -38,6 +41,7 @@
   color: black;
   font-size: 25px;
   border-bottom: 2px solid #dfdfdf;
+  font-family: 'belligerent_madnessregular', sans-serif;
 }
 
 header {
@@ -47,3 +51,18 @@ header {
 hr {
   clear: both;
 }
+
+h1 {
+  font-family: 'belligerent_madnessregular', serif;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: 'belligerent_madnessregular', serif;
+}
+
+
+
+
+
+

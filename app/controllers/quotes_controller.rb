@@ -16,6 +16,7 @@ class QuotesController < ApplicationController
   end
 
   def about
+    puts "I'm in the about action."
   end
 
   private

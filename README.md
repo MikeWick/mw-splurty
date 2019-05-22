@@ -1,24 +1,16 @@
-# README
+# Splurty Quote Generator
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A Ruby on Rails app that allows a user to contribute a quote and author to be input and saved in the database.
 
-Things you may want to cover:
+## Features
+* New Quote submission form
+* Database to store quotes and authors
 
-* Ruby version
+## Technologies
+* Ruby on Rails
+* JavaScript
+* HTML
+* CSS
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+---
+<img src="/app/assets/images/splurty_form.png" width="100%" alt="Splurty Form">
